@@ -1,4 +1,3 @@
-
 ---
 title: Cognitive Load Detection using keystroke Dynamics
 
@@ -99,3 +98,6 @@ This repo is ready for a Docker Space.
 - `MAT_Preprocessing.ipynb`
 - `high_level_architecture_clean.png`
 
+=======
+# Cognitive-Load-Detection-using-KeyStroke-Dynamics
+>>>>>>> a8a249e1c7daa0ce93bb569eea657594f5475575
