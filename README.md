@@ -1,15 +1,7 @@
----
-title: Cognitive Load Detection using keystroke Dynamics
+--- Cognitive Load Detection using keystroke Dynamics 🧠
 
-emoji: 🧠
-colorFrom: blue
-colorTo: green
-sdk: docker
-app_port: 7860
-pinned: false
----
 
-# Cognitive Load Detection Lab
+# Cognitive Load Detection 
 
 This repository now includes a complete frontend and backend for a deployable cognitive load detection demo inspired by the original research notebooks in the repo.
 
